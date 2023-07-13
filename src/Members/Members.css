@@ -1,0 +1,18 @@
+.bl{
+    background-image: url(../../src/images/31820104_7694368.jpg);
+}
+@media only screen and (max-width: 600px) {
+    .div{
+        /* background-color: #55e0a3 ; */
+        background-image: url(../images/cover1.jpg);
+        
+        border-radius: 20px;
+        padding: 40px;
+    }
+    p{
+        color: white;
+    }
+    .div2{
+        opacity: 0;
+    }
+  }
